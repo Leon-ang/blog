@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Leon's world
-tagline: A simple and beautiful blog theme.
+tagline: A simple and beautiful blog.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
