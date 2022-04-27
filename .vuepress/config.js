@@ -69,10 +69,10 @@ module.exports = {
             }
         },
         "friendLink": [{
-                "title": "午后南杂",
+                "title": "csdn",
                 "desc": "Enjoy when you can, and endure when you must.",
-                "email": "1156743527@qq.com",
-                "link": "https://www.recoluan.com"
+                "email": "1466794851@qq.com",
+                "link": "https://blog.csdn.net/la5616214?spm=1000.2115.3001.5343"
             },
             {
                 "title": "vuepress-theme-reco",
